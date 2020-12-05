@@ -1,0 +1,3 @@
+/var/lib/jenkins/tools/jenkins.plugins.nodejs.tools.NodeJSInstallation/n-1/bin/npm
+
+export PATH=${PATH}:/var/lib/jenkins/tools/jenkins.plugins.nodejs.tools.NodeJSInstallation/n-1/bin

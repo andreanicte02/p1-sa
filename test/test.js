@@ -2,7 +2,7 @@ const app_values = require('../constants');
 var assert = require('chai').assert;
 
 const port = app_values.port;
-const required_port = 8080
+const required_port = 3000
 
 describe('Port', function() {
     it('Should be number.', function() {
