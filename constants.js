@@ -1,5 +1,5 @@
 const app_values = {
-    port: '3000',
+    port: 's3000',
     path: __dirname + '/views/'
 }
 module.exports = app_values
