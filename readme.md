@@ -49,3 +49,7 @@ $ export PATH=${PATH}:/var/lib/jenkins/tools/jenkins.plugins.nodejs.tools.NodeJS
 $pm2 start app.js
 ```
 
+```
+Andrea Nicte Vicente Campos -
+201404104
+Software Avanzado
